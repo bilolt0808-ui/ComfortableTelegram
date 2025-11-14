@@ -1,0 +1,14 @@
+/* variables.css - Переменные дизайн-системы */
+:root {
+  --primary-color: #6366f1;
+  --primary-hover: #4f46e5;
+  --secondary-color: #f8fafc;
+  --accent-color: #06d6a0;
+  --text-primary: #1e293b;
+  --text-secondary: #64748b;
+  --text-muted: #94a3b8;
+  --bg-primary: #ffffff;
+  --bg-secondary: #f8fafc;
+  --bg-tertiary: #e2e8f0;
+  --border-color: #e2e8f0;
+  --shadow-sm
